@@ -31,7 +31,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=HungForree&theme=dark" alt="Codeforces Stats" height="150"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/nguyenbaphuchung2">
+  <a href="https://leetcode.com/nguyenbaphuchung2">
     <img src="https://leetcard.jacoblin.cool/TEN_LEETCODE_CUA_BAN?theme=dark&ext=activity" alt="LeetCode Stats" height="150"/>
   </a>
 </div>
