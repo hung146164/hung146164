@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm Hưng (HungForree) 👋</h1>
 <h3 align="center">Competitive Programmer | Game Developer | System Engineering Enthusiast</h3>
 
@@ -28,11 +26,11 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/hung146164">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=HungForree&theme=dark" alt="Codeforces Stats" height="150"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hung146164&theme=dark" alt="Codeforces Stats" height="150"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/nguyenbaphuchung2">
-    <img src="https://leetcard.jacoblin.cool/TEN_LEETCODE_CUA_BAN?theme=dark&ext=activity" alt="LeetCode Stats" height="150"/>
+  <a href="https://leetcode.com/u/nguyenbaphuchung2/">
+    <img src="https://leetcard.jacoblin.cool/nguyenbaphuchung2?theme=dark&ext=activity" alt="LeetCode Stats" height="150"/>
   </a>
 </div>
 
@@ -40,7 +38,7 @@
 
 ### 📫 Contact Me
 
-* 📧 **Email**: [hung.unitydev@gmail.com](mailto:dien_email_cua_ban@gmail.com)
+* 📧 **Email**: [hung.unitydev@gmail.com](mailto:hung.unitydev@gmail.com)
 
 <br>
 <p align="center">
