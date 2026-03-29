@@ -30,11 +30,6 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://codeforces.com/profile/hun616">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hung146164&theme=dark" height="200" />
-        </a>
-      </td>
-      <td>
         <a href="https://leetcode.com/u/nguyenbaphuchung2/">
           <img src="https://leetcard.jacoblin.cool/nguyenbaphuchung2?theme=dark&font=Ubuntu" height="200" />
         </a>
