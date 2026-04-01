@@ -33,6 +33,9 @@
         <a href="https://leetcode.com/u/nguyenbaphuchung2/">
           <img src="https://leetcard.jacoblin.cool/nguyenbaphuchung2?theme=dark&font=Ubuntu" height="200" />
         </a>
+        <a href="https://cses.fi/user/213325">
+  <img src="https://img.shields.io/badge/CSES-Solved%20(Updating)-blue?style=for-the-badge&logo=platformide&logoColor=white" height="35" />
+      </a>
       </td>
     </tr>
   </table>
