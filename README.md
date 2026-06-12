@@ -29,7 +29,7 @@
     <tr>
       <td>
         <a href="https://leetcode.com/u/nguyenbaphuchung2/">
-          <img src="https://leetcard.jacoblin.cool/nguyenbaphuchung2?theme=dark&font=Ubuntu" height="200" />
+          <img src="https://leetcard.jacoblin.cool/nguyenbaphuchung2?ext=heatmap&theme=dark&font=Ubuntu" height="200" />
         </a>
       </td>
     </tr>
